@@ -1,0 +1,6 @@
+{
+  "name": "CROUSTILLE — Haute Slow Coffee",
+  "description": "A cinematic, editorial luxury coffee experience and artisanal roastery. Crafted slow. Tasted deeply.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
